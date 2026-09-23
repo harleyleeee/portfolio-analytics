@@ -76,7 +76,6 @@ The similarity matrix was visualized as a heatmap to make competitive relationsh
   <img src="images/positioning_heatmap.png" width="800">
 </p>
 
-
 ## 💡 Key Insights
 
 - Some restaurants show strong similarity in their concept and positioning, suggesting direct competitive overlap.
