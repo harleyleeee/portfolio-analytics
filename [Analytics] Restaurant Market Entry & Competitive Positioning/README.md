@@ -68,19 +68,6 @@ Used the similarity results to identify:
 
 ## 📊 Key Analysis
 
-
-### Competitor Similarity Matrix
-
-Cosine similarity was used to measure the similarity between restaurant concepts.
-
-A higher score indicates that two restaurants share more similar positioning characteristics.
-
-<p align="center">
-  <img src="images/similarity_matrix.png" width="800">
-</p>
-
----
-
 ### Competitive Positioning Heatmap
 
 The similarity matrix was visualized as a heatmap to make competitive relationships easier to identify.
@@ -89,17 +76,6 @@ The similarity matrix was visualized as a heatmap to make competitive relationsh
   <img src="images/positioning_heatmap.png" width="800">
 </p>
 
----
-
-### Closest Competitors
-
-Restaurants with the highest similarity scores were identified as potential direct competitors.
-
-<p align="center">
-  <img src="images/closest_competitors.png" width="800">
-</p>
-
----
 
 ## 💡 Key Insights
 
