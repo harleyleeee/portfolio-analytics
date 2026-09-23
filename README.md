@@ -7,8 +7,6 @@ This repository contains selected projects I've worked on in areas such as **Dat
 
 My background combines **IT global business experience** with academic training in **Information Systems**, allowing me to approach data projects from both a business and technical perspective.
 
----
-
 ## 🕵️ About my projects
 
 Each folder in this repository represents a standalone project, featuring **data collection, data processing, analysis, visualization, and business insights**.
