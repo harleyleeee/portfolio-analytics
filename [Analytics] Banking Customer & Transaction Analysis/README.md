@@ -79,7 +79,7 @@ Examined transaction behaviour across:
   <img src="images/customer_segment.png" width="800">
 </p>
 
----
+----
 
 ### Transaction Channel Analysis
 
