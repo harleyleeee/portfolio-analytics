@@ -7,7 +7,6 @@ This project collects online restaurant reviews and applies text analytics to id
 The objective is to transform unstructured customer reviews into structured insights that can help businesses better understand customer experiences, preferences, and common discussion topics.
 
 ---
-
 ## 🎯 Analysis Objectives
 
 This project focuses on the following questions:
