@@ -67,7 +67,7 @@ Examined important terms within each cluster to interpret recurring customer the
 Customer reviews were grouped into clusters based on textual similarity.
 
 <p align="center">
-  <img src="images/cluster_analysis.png" width="800">
+  <img src="image/cluster_analysis.png" width="800">
 </p>
 
 --- 
