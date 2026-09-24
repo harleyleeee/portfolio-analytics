@@ -17,7 +17,6 @@ This project focuses on the following questions:
 4. How can review text be transformed into useful customer insights?
 
 ---
-
 ## 🛠️ Tools Used
 
 - Python
