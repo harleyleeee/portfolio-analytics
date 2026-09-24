@@ -254,11 +254,6 @@ Neutral F1
 
 This result is particularly important because neutral financial language can be difficult to distinguish from positive and negative sentiment.
 
-<p align="center">
-  <img src="images/performance_comparison.png" width="850">
-</p>
-
----
 
 # 🔬 Component Analysis
 
