@@ -5,7 +5,6 @@
 This project builds a web scraping workflow to collect publicly available freelancer information and explore characteristics of the Canadian freelance market.
 
 The objective is to demonstrate how web data can be transformed into a structured dataset for market and competitor analysis.
-
 ---
 
 ## 🎯 Analysis Objectives
