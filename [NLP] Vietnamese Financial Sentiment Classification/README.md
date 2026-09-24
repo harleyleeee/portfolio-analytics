@@ -17,7 +17,6 @@ The proposed framework combines **domain adaptation, task adaptation, curriculum
 > 🎓 This project was developed as my Master's thesis in Information Systems at Korea University Business School.
 
 ---
-
 ## 🎯 Research Problem
 
 General-purpose Pre-trained Language Models may struggle with financial text because financial language contains:
